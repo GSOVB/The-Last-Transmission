@@ -21,4 +21,4 @@ Your decisions will shape how far humanity goes to uncover the truth.
 ## 🛠️ Get the Project:
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/GSOVB/The-Last-Transmission.git```
+   git clone https://github.com/GSOVB/The-Last-Transmission.git
